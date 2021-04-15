@@ -13,4 +13,5 @@
 - seaborn
 
 # Getting Started
-  Download the dataset and run through the steps of jupyter notebook
+  Download the dataset from https://drive.google.com/file/d/15X00ZWBjla7qGOIW33j8865QdF89IyAk/view?usp=sharing%5C
+  and run through the steps of jupyter notebook
